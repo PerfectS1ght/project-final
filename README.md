@@ -27,4 +27,6 @@
 - https://habr.com/ru/articles/259055/
 
 Список выполненных задач:
-...
+
+1. Сделал рефакторинг метода com.javarush.jira.bugtracking.attachment.FileUtil#upload чтоб он использовал
+современный подход для работы с файловой системой.
