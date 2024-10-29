@@ -30,3 +30,4 @@
 
 1. Сделал рефакторинг метода com.javarush.jira.bugtracking.attachment.FileUtil#upload чтоб он использовал
 современный подход для работы с файловой системой.
+2. Удалил социальные сети: vk, yandex.
